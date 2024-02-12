@@ -1,0 +1,20 @@
+{
+  "name": "login-using-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^5.9.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.9.1",
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2"
+  }
+}
